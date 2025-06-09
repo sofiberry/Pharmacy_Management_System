@@ -7,8 +7,6 @@
 
 
 
-https://github.com/user-attachments/assets/058bee4e-a0f9-4d3c-b690-9f8cd7468741
-
 
 **Login Information** <br>
  ```
